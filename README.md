@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YDAckerman
-- 👀 I’m interested in game design, probability, anthropology, cryptography
-- 🌱 I’m currently learning python, c++, aws, cryptography, etc.
+- 👀 I’m interested in data engineering, game design, probability, anthropology, and cryptography
+- 🌱 I’m currently learning principles of data engineering and python.
 - 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me: tbd
 
