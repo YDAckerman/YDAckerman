@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YDAckerman
-- 👀 I’m interested in data engineering, game design, probability, anthropology, and cryptography
+- 👀 I’m interested in data engineering, game design, probability, and anthropology.
 - 🌱 I’m currently learning principles of data engineering and python.
-- 💞️ I’m looking to collaborate on game design
-- 📫 How to reach me: tbd
+- 💞️ I’m looking to collaborate on web-based implementations of board games.
+- 📫 How to reach me: email me.
 
 <!---
 YDAckerman/YDAckerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
