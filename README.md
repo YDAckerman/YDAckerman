@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YDAckerman
-- 👀 I’m interested in data engineering, game design, probability, and anthropology.
+- 👀 I’m interested in data engineering, game design, and anthropology.
 - 🌱 I’m currently learning principles of data engineering and python.
 - 💞️ I’m looking to collaborate on web-based implementations of board games.
 - 📫 How to reach me: email me.
