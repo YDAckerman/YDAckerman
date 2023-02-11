@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YDAckerman
-- 👀 I’m interested in data engineering, game design, and anthropology.
-- 🌱 I’m currently learning principles of data engineering and python.
-- 💞️ I’m looking to collaborate on web-based implementations of board games.
+- 👀 I’m interested in: software development, data engineering, table top game design, computer languages, linux, david graeber, anarchy, mutual aid, juggling, soto zen buddhism. cats.
+- 🌱 I’m currently learning: rust, airflow, apis, front-end, table top game design, linux, midjourney.  
+- 💞️ I’m looking to collaborate on projects that promote: human welfare, community, care. 
 - 📫 How to reach me: email me.
 
 <!---
